@@ -1,0 +1,148 @@
+ID,CLIP-IQA Attribute,Response
+001,made of metal and artificial and hard,"metal, silver"
+001,food-related andeating-related and kitchen-related,"measurement, white"
+001,animal-related and organic,"green, nature, tool"
+001,clothing-related and fabric and covering,"patterned, chaotic"
+001,furniture-related and household-related and artifact,"adornment, furniture, dull colors"
+001,plant-related and green,"green, alive, organic"
+001,outdoors-related,"wod, brown, nature"
+001,transportation and motorized and dynamic,"power, technology, information"
+001,wood-related and brown,"tool, brown, dull"
+001,body part-related,"red, skin, uncomfortable"
+001,colorful,"multicolored, pretty"
+001,valuable special occasion-related,"chaotic, explosive"
+001,electronic and technology,"options, suits, many"
+001,sport-related and recreation-related,"metal, medal, recognition"
+001,disc-shaped and round,circular
+001,tool-related,"spiky, pins"
+001,many small things and coarse pattern,"patterned, fabric"
+001,paper-related and thin and flat and text-related,dull colors
+001,fluid-related and drink-related,"rich color, singular"
+001,long and thin,dangerous
+001,water-related and blue,blue
+001,powdery and fine-scale pattern,"white, somewhat chaotic, slightly patterned"
+001,red,red
+001,feminine (stereotypically) and decorative,pattern
+001,bathroom-related and sanitary,"white, appliance, toiletries"
+001,black and noble,black
+001,weapon and danger-related and violence,"weapon, dangerous, metal"
+001,musical instrument-related and noise-related,"technology, tool"
+001,sky-related and flying-related and floating-related,"air, sky"
+001,spherical and ellipsoid and rounded and voluminous,"spherical"
+001,repetitive,"window, air between gaps"
+001,flat and patterned,"slight pattern"
+001,white,"white"
+001,thin and flat,"measure"
+001,disgusting and bugs,"brown"
+001,string-related,"knit, thread, wire"
+001,arms and legs and skin-related,"legs, slits"
+001,shiny and tranparent,vibrant colors
+001,construction-related and physical work-related,"wood, cut"
+001,fire-related and heat-related,reddish-brown
+001,head-related and face-related,"information, art"
+001,beams-related,brown
+001,eating-related and put things on top,food
+001,container-related and hollow,"box, rectangular"
+001,child-related and toy-related,"many objects, toys"
+001,medicine-related,compass
+001,has grating,"food, chips"
+001,handicraft-related,"living, wood"
+001,cylindrical and conical,"sarkling, small dots, gradient"
+002,made of metal and artificial and hard,"Industrial, a lot of metal, mostly grey, hard objects"
+002,food-related andeating-related and kitchen-related,"measure, work related, tools"
+002,animal-related and organic,"green, produce, vegetables ad fruits. "
+002,clothing-related and fabric and covering,"cloth, fabric, soft, patterns, colorful"
+002,furniture-related and household-related and artifact,"historical, old,decorations, delicate, museum"
+002,plant-related and green,"Green, leaves, nature"
+002,outdoors-related,"outdoor, brown"
+002,transportation and motorized and dynamic,"modern, technology"
+002,wood-related and brown,"brown, leather"
+002,body part-related,"flesh, meat, organic"
+002,colorful,colorful
+002,valuable special occasion-related,"colorful, celebration, red"
+002,electronic and technology,"complex, not-minimal"
+002,sport-related and recreation-related,"grey and green, old"
+002,disc-shaped and round,"rounded, circular"
+002,tool-related,"red, colorful, plenty"
+002,many small things and coarse pattern,"pattern, fabric"
+002,paper-related and thin and flat and text-related,"technology, tools, work, stationary"
+002,fluid-related and drink-related,"species, animals, blue"
+002,long and thin,"grey, not a lot of color, weapons and tools"
+002,water-related and blue,Blue
+002,powdery and fine-scale pattern,"snow, winter, white"
+002,red,red
+002,feminine (stereotypically) and decorative,"pattern, sophisticated"
+002,bathroom-related and sanitary,"white, bathroom, home"
+002,black and noble,Black
+002,weapon and danger-related and violence,tools and weapons
+002,musical instrument-related and noise-related,"2000s, blacks"
+002,sky-related and flying-related and floating-related,"sky, blue"
+002,spherical and ellipsoid and rounded and voluminous,"balls, circular, oval shapes"
+002,repetitive,"grids, blue"
+002,flat and patterned,Sexual???
+002,white,White
+002,thin and flat,appliances and decorations
+002,disgusting and bugs,"brown, food"
+002,string-related,"sky and blue, theads"
+002,arms and legs and skin-related,"Leg, horizontal, straight lines"
+002,shiny and tranparent,"nature, color"
+002,construction-related and physical work-related,"yellow, brown"
+002,fire-related and heat-related,"orange, hot, brown"
+002,head-related and face-related,face and clothes. School related items
+002,beams-related,"Brown, wood and leather"
+002,eating-related and put things on top,food
+002,container-related and hollow,church
+002,child-related and toy-related,red and blue
+002,medicine-related,"medical, white"
+002,has grating,food
+002,handicraft-related,"yellow, animal, nature"
+002,cylindrical and conical,"rounded, circular"
+003,made of metal and artificial and hard,metal
+003,food-related andeating-related and kitchen-related,measurement
+003,animal-related and organic,green
+003,clothing-related and fabric and covering,fabric
+003,furniture-related and household-related and artifact,gold
+003,plant-related and green,nature
+003,outdoors-related,wood
+003,transportation and motorized and dynamic,paper
+003,wood-related and brown,wood
+003,body part-related,red
+003,colorful,colorful
+003,valuable special occasion-related,colorful
+003,electronic and technology,metal
+003,sport-related and recreation-related,army
+003,disc-shaped and round,round
+003,tool-related,metal
+003,many small things and coarse pattern,fabric
+003,paper-related and thin and flat and text-related,lines
+003,fluid-related and drink-related,singular
+003,long and thin,singular
+003,water-related and blue,blue
+003,powdery and fine-scale pattern,white
+003,red,red
+003,feminine (stereotypically) and decorative,gold
+003,bathroom-related and sanitary,white
+003,black and noble,grey
+003,weapon and danger-related and violence,"metal, grey, black"
+003,musical instrument-related and noise-related,grey
+003,sky-related and flying-related and floating-related,"round, color"
+003,spherical and ellipsoid and rounded and voluminous,round
+003,repetitive,"blue, singular"
+003,flat and patterned,beige
+003,white,white
+003,thin and flat,singular
+003,disgusting and bugs,pink
+003,string-related,brown
+003,arms and legs and skin-related,grey
+003,shiny and tranparent,outdoor
+003,construction-related and physical work-related,beige
+003,fire-related and heat-related,beige
+003,head-related and face-related,hair
+003,beams-related,brown
+003,eating-related and put things on top,"red, food"
+003,container-related and hollow,"white, singular, box"
+003,child-related and toy-related,"round, fuzz"
+003,medicine-related,"round, blue"
+003,has grating,"red, food"
+003,handicraft-related,"brown, wood"
+003,cylindrical and conical,"round, singular, inanimate"
